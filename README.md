@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on: this thid n thid <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
