@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Creating a fully functional social media web app. <br>🌱 I’m currently learning: How to use next.js/react.js. <br>💬 Ask me about: Anything related to my projects, I will answer all questions and encourge all good or bad feedback.<br>⚡ Fun fact: I love food mmmhmmmmm 🤣🤣.
+🔭 I’m currently working on: Creating a fully functional social media web app. <br>🌱 I’m currently learning: How to use next.js/react.js. <br>💬 Ask me about: Anything related to my projects, I will answer all questions and encourge all good or bad feedback.<br>⚡ Fun fact: I love food :).
 
 
 ## 🌐 Socials:
