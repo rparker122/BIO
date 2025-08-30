@@ -1,5 +1,5 @@
-# 💫 Important Info:
-<br>⚡For my repos "SE" labled ones are software engenierring related projects while "DATA" labled ones are Data analysis related projects 
+
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rparker.ccs@gmail.com) 
